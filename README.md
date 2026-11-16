@@ -109,3 +109,9 @@ Skills Developed
 ![PCB Bottom View](images/IMG_7835.png)
 
 ![PCB Bottom 3D View](images/IMG_7837.png)
+
+## Project Demonstration
+
+Watch the circuit simulation video:
+
+[Visual Study Timer – Simulation Demo](videos/visual-study-timer-simulation.mp4)
