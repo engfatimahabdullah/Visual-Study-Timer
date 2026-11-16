@@ -73,3 +73,39 @@ Skills Developed
 * Hardware Prototyping
 * PCB Design
 * Technical Documentation
+
+## Project Gallery
+
+### Circuit Simulation
+
+![Tinkercad Circuit Simulation](images/IMG_5297.jpeg)
+
+### Physical Prototype
+
+![Physical Prototype 1](images/IMG_5233.jpeg)
+
+![Physical Prototype 2](images/IMG_5235.jpeg)
+
+![Physical Prototype 3](images/IMG_5237.jpeg)
+
+![Physical Prototype 4](images/IMG_5238.jpeg)
+
+### Circuit Schematic
+
+![Circuit Schematic](images/IMG_7832.png)
+
+### PCB Design
+
+![PCB Layout](images/IMG_7833.png)
+
+![PCB Layout View](images/IMG_7834.png)
+
+### 3D PCB View
+
+![3D PCB View](images/IMG_7836.png)
+
+### PCB Bottom View
+
+![PCB Bottom View](images/IMG_7835.png)
+
+![PCB Bottom 3D View](images/IMG_7837.png)
